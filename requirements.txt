@@ -1,0 +1,8 @@
+openai
+numpy_financial
+numpy
+plotly
+matplotlib
+openpyxl
+streamlit_authenticator
+htbuilder
